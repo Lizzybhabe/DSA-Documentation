@@ -95,3 +95,8 @@ Where A>3
 *italy*
 
 **bold**
+![IMG_0888](https://github.com/user-attachments/assets/bd3cd8d2-2d96-4dc3-b7f1-5636fd77de8f)
+
+
+
+![WhatsApp_Image_2025-05-28_at_8 32 11_AM-removebg-preview (1)](https://github.com/user-attachments/assets/b91194c5-952c-4a45-86ea-679bdc41377e)
