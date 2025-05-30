@@ -86,3 +86,12 @@ Tertiary hospitals: A tertiary referral hospital (also called a tertiary hospita
 - Gates, E.W. (1999) ‚Information  Technology in the Nigerian Health Industry‛ Spectrum Ibadan, 2000.
 
 - Wikipedia (2015): www.wikipedia.com
+
+````
+Select A, B, C
+Where A>3
+````
+
+*italy*
+
+**bold**
