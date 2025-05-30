@@ -1,4 +1,4 @@
-# DSA-Documentation
+ # DSA-Documentation
 
 This is where I started my Portfolio building while taking my Data Analysis class with the Incubator
 
@@ -79,10 +79,10 @@ Tertiary hospitals: A tertiary referral hospital (also called a tertiary hospita
 
 ### REFERENCES
 
-Jensen, M. (1998). Africa Internet Connectivity: Information and Communication technologies (ICTs) Telecommunications, Internet and Computer Infrastructure in Africa.. Retrieved from The Association for Progressive Communications Web site: http://www3.sn.apc.org/africa/
+- Jensen, M. (1998). Africa Internet Connectivity: Information and Communication technologies (ICTs) Telecommunications, Internet and Computer Infrastructure in Africa.. Retrieved from The Association for Progressive Communications [Web site:](http://www3.sn.apc.org/africa/)
 
-Agboola, A.A. ‚Inform Technology, Bank  Automation and Attitude of Workers in Nigerian Banks‛ in Journal of Social Sciences, Kamla-Raj Enterprises, Gali Bari Paharwali,  India, 2003
+- Agboola, A.A. ‚Inform Technology, Bank  Automation and Attitude of Workers in Nigerian Banks‛ in Journal of Social Sciences, Kamla-Raj Enterprises, Gali Bari Paharwali,  India, 2003
 
-Gates, E.W. (1999) ‚Information  Technology in the Nigerian Health Industry‛ Spectrum Ibadan, 2000.
+- Gates, E.W. (1999) ‚Information  Technology in the Nigerian Health Industry‛ Spectrum Ibadan, 2000.
 
-Wikipedia (2015): www.wikipedia.com
+- Wikipedia (2015): www.wikipedia.com
