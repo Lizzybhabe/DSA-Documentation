@@ -39,7 +39,7 @@ The following are the objectives of this study:
 
 3.  To ascertain the factors limiting the use of information technology in tertiary hospitals in Rivers State.
 
-###1.4   Research Questions     
+### 1.4   Research Questions     
 
 1.  What is the level of use of information technology in the tertiary hospitals in Rivers State?
 
@@ -61,7 +61,7 @@ The following are the significance of this study:
 
 2.  This research will also serve as a resource base to other scholars and researchers interested in carrying out further research in this field subsequently, if applied will go to an extent to provide new explanation to the topic.
 
-###1.7   Scope of the Study
+### 1.7   Scope of the Study
 
 This study on information technology and service delivery will cover the level of use of information technology based system in the tertiary hospitals in Rivers state considering its effect on health care service delivery.
 
@@ -71,7 +71,7 @@ This study on information technology and service delivery will cover the level o
 
 2.        Time constraint– The researcher will simultaneously engage in this study with other academic work. This consequently will cut down on the time devoted for the research work.
 
-###1.9   Definition of Terms
+### 1.9   Definition of Terms
 
 Information technology: the study or use of systems (especially computers and telecommunications) for storing, retrieving, and sending information.
 
